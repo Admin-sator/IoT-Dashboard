@@ -114,3 +114,7 @@ Signal female header to Arduino's Analog 3
 
 DHT11:
 Signal female header to Arduino's Digital 2
+
+
+Without Robotzade UNOKit:
+Like Robotzade UNOKit installation
